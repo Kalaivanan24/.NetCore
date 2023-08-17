@@ -1,11 +1,11 @@
 DESIGN PATTERNS -> 3 Categories -> 23 Patterns
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3 Categories
 
 1. Creational Design Pattern ->  Creational patterns focus on the process of object creation, providing mechanisms to create objects in a flexible and efficient manner
 2. Structural Design Pattern ->  Structural patterns deal with the composition of classes and objects to create larger structures or entities 
 3. Behavioral Design Pattern ->  Behavioral patterns deal with object collaboration, communication, and responsibility distribution  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Category 1 : Creational Design Pattern -> 5 Patterns
 
 1. Singleton Pattern          ->    Ensures a class has only one instance and provides a global point of access to that instance
@@ -13,7 +13,7 @@ Category 1 : Creational Design Pattern -> 5 Patterns
 3. Abstract Factory Pattern   ->    Provides an interface for creating families of related or dependent objects without specifying concrete classes
 4. Builder Pattern            ->    Separates the construction of a complex object from its representation, allowing the same construction process to create different representations
 5. Prototype Pattern          ->    Specifies the kind of objects to create using a prototypical instance and creates new objects by copying this prototype
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Category 2 : Structural Design Pattern -> 7 Patterns
 
 1. Adapter Pattern            ->    Converts the interface of a class into another interface that clients expect
@@ -23,19 +23,19 @@ Category 2 : Structural Design Pattern -> 7 Patterns
 5. Facade Pattern             ->    Provides a simplified interface to a set of interfaces in a subsystem
 6. Flyweight Pattern          ->    Uses sharing to support large numbers of fine-grained objects efficiently
 7. Proxy Pattern              ->    Provides a surrogate or placeholder for another object to control access to it
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Category 3 : Behavioral Design Pattern -> 11 Patterns
 
 1. Chain of Responsibility Pattern   ->   Avoids coupling the sender of a request to its receiver by giving more than one object a chance to handle the request
-2. Command Pattern    ->   Encapsulates a request as an object, allowing parameterization and queuing of requests
-3. Interpreter Pattern   ->    Provides a way to evaluate language grammar or expressions
-4. Iterator Pattern   ->   Provides a way to access the elements of an aggregate object sequentially without exposing its representation
-5. Mediator Pattern   ->   Defines an object that encapsulates how a set of objects interact, reducing direct dependencies
-6. Memento Pattern    ->   Captures an object's internal state to allow restoring it later
-7. Observer Pattern    ->   Defines a dependency between objects, so when one changes state, its dependents are notified and updated
-8. State Pattern   ->    Allows an object to change its behavior when its internal state changes
-9. Strategy Pattern   ->  Defines a family of algorithms, encapsulates each, and makes them interchangeable
-10. Template Method Pattern   ->   Defines the structure of an algorithm in a superclass and lets subclasses provide specific implementations for certain steps
-11. Visitor Pattern   ->    Represents an operation to be performed on elements of an object structure without changing their classes
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Command Pattern                   ->   Encapsulates a request as an object, allowing parameterization and queuing of requests
+3. Interpreter Pattern               ->    Provides a way to evaluate language grammar or expressions
+4. Iterator Pattern                  ->   Provides a way to access the elements of an aggregate object sequentially without exposing its representation
+5. Mediator Pattern                  ->   Defines an object that encapsulates how a set of objects interact, reducing direct dependencies
+6. Memento Pattern                   ->   Captures an object's internal state to allow restoring it later
+7. Observer Pattern                  ->   Defines a dependency between objects, so when one changes state, its dependents are notified and updated
+8. State Pattern                     ->    Allows an object to change its behavior when its internal state changes
+9. Strategy Pattern                  ->  Defines a family of algorithms, encapsulates each, and makes them interchangeable
+10. Template Method Pattern          ->   Defines the structure of an algorithm in a superclass and lets subclasses provide specific implementations for certain steps
+11. Visitor Pattern                  ->    Represents an operation to be performed on elements of an object structure without changing their classes
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
