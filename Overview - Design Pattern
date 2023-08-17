@@ -1,4 +1,5 @@
-DESIGN PATTERNS -> 3 Categories -> 23 Patterns
+DESIGN PATTERNS -> standardized and reusable solution to a specific software design problem
+                -> 3 Categories -> 23 Patterns
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3 Categories
 
@@ -28,14 +29,14 @@ Category 3 : Behavioral Design Pattern -> 11 Patterns
 
 1. Chain of Responsibility Pattern   ->   Avoids coupling the sender of a request to its receiver by giving more than one object a chance to handle the request
 2. Command Pattern                   ->   Encapsulates a request as an object, allowing parameterization and queuing of requests
-3. Interpreter Pattern               ->    Provides a way to evaluate language grammar or expressions
+3. Interpreter Pattern               ->   Provides a way to evaluate language grammar or expressions
 4. Iterator Pattern                  ->   Provides a way to access the elements of an aggregate object sequentially without exposing its representation
 5. Mediator Pattern                  ->   Defines an object that encapsulates how a set of objects interact, reducing direct dependencies
 6. Memento Pattern                   ->   Captures an object's internal state to allow restoring it later
 7. Observer Pattern                  ->   Defines a dependency between objects, so when one changes state, its dependents are notified and updated
-8. State Pattern                     ->    Allows an object to change its behavior when its internal state changes
-9. Strategy Pattern                  ->  Defines a family of algorithms, encapsulates each, and makes them interchangeable
+8. State Pattern                     ->   Allows an object to change its behavior when its internal state changes
+9. Strategy Pattern                  ->   Defines a family of algorithms, encapsulates each, and makes them interchangeable
 10. Template Method Pattern          ->   Defines the structure of an algorithm in a superclass and lets subclasses provide specific implementations for certain steps
-11. Visitor Pattern                  ->    Represents an operation to be performed on elements of an object structure without changing their classes
+11. Visitor Pattern                  ->   Represents an operation to be performed on elements of an object structure without changing their classes
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
