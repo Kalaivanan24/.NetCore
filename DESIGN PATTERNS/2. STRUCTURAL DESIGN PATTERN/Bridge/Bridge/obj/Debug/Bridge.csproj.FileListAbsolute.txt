@@ -1,0 +1,8 @@
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Bridge\Bridge\obj\Debug\Bridge.pdb

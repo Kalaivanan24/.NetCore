@@ -1,0 +1,8 @@
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\rlogeshwaran\Documents\.net projects\Design_Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
